@@ -12,6 +12,7 @@ Hi, I'm Loyston Pais, 16 y/o, a passionate self-taught programmer from India.
 - I've kinda mastered Python.
 - I make discord bots! [CodeGod](https://github.com/loyston500/CodeGod)
 - Currenty rewriting my bot in Rust and learning the language as well [CodeGodRust](https:://github.com/loyston500/CodeGodRust)
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://user-images.githubusercontent.com/53959446/111877046-72a75c00-89c7-11eb-804a-9878b5dc3f3f.png"></code>
